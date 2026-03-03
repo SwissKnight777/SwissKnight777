@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm SwissKnight777 🐺🏔️
+Future Software Engineer | Aspiring EPFL Student
 
-<!--
-**SwissKnight777/SwissKnight777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dedicated student currently at ITSON, focused on mastering Software Development and Mathematics to build a prosperous life in Switzerland.
 
-Here are some ideas to get you started:
+🔭 Current Goal: Transitioning from Mechatronics to Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Mindset: "Para ser neutral, hay que saber neutralizar".
+
+🇫🇷 Languages: Learning French for my future in the Alps.
+
+⚔️ Interests: Real Knight Armor, Medieval Towns, and Advanced Software.
+
+"La seule limite est celle de l'esprit."
